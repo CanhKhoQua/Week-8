@@ -1,0 +1,4 @@
+Topic: Data warehouse vs OLTP/OLAP
+Topic: Data Warehouses and Analytics
+Topic: OLTP vs OLAP
+Topic: Data warehouse vs OLTP/OLAP
